@@ -1,0 +1,3684 @@
+{
+    "bomFormat": "CycloneDX",
+    "specVersion": "1.5",
+    "serialNumber": "urn:uuid:31330fb6-8686-4610-916a-7767d85433e5",
+    "version": 1,
+    "metadata": {
+        "timestamp": "2025-11-11T10:39:21Z",
+        "tools": [
+            {
+                "vendor": "Contrast Security",
+                "name": "Codesec"
+            }
+        ],
+        "component": {
+            "name": "Temp Project",
+            "version": "1",
+            "type": "application"
+        },
+        "manufacture": {
+            "name": "5deb031c-8a39-4d16-bc9f-f3736024b3b5"
+        }
+    },
+    "components": [
+        {
+            "group": "System.Diagnostics.DiagnosticSource",
+            "name": "System.Diagnostics.DiagnosticSource.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "42f2c4ae29944ebce34a6629a9cbd8862ba87168"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Diagnostics.DiagnosticSource/System.Diagnostics.DiagnosticSource.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Diagnostics.DiagnosticSource:System.Diagnostics.DiagnosticSource.dll:6.0.0"
+        },
+        {
+            "group": "System.Runtime.Handles",
+            "name": "System.Runtime.Handles.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "49c45edb8e4c5507bbc9482971a403fbc320cfb3"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Runtime.Handles/System.Runtime.Handles.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Runtime.Handles:System.Runtime.Handles.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.CodeAnalysis.Workspaces.MSBuild",
+            "name": "Microsoft.CodeAnalysis.Workspaces.MSBuild.dll",
+            "version": "4.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "b451e7c8ab9ee1cc2d711254e14fd6ddad901680"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.CodeAnalysis.Workspaces.MSBuild/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll@4.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.CodeAnalysis.Workspaces.MSBuild:Microsoft.CodeAnalysis.Workspaces.MSBuild.dll:4.0.0"
+        },
+        {
+            "group": "System.Xml.XDocument",
+            "name": "System.Xml.XDocument.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "1d1d5e112388fa451d7fdff78958243713429467"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Xml.XDocument/System.Xml.XDocument.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Xml.XDocument:System.Xml.XDocument.dll:4.3.0"
+        },
+        {
+            "group": "System.Globalization.Calendars",
+            "name": "System.Globalization.Calendars.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "30ae8c8e57bcabe27ba675fa84d4da6af3c10ead"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Globalization.Calendars/System.Globalization.Calendars.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Globalization.Calendars:System.Globalization.Calendars.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+            "name": "Microsoft.VisualStudio.Web.CodeGeneration.Design.dll",
+            "version": "6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.VisualStudio.Web.CodeGeneration.Design:Microsoft.VisualStudio.Web.CodeGeneration.Design.dll:6.0.8"
+        },
+        {
+            "group": "System.Security.Cryptography.OpenSsl",
+            "name": "System.Security.Cryptography.OpenSsl.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "2e3b54d8c0e0d5b3613ebb054a5ae1b3a14a4cbe"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Security.Cryptography.OpenSsl/System.Security.Cryptography.OpenSsl.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Security.Cryptography.OpenSsl:System.Security.Cryptography.OpenSsl.dll:4.3.0"
+        },
+        {
+            "group": "System.Reflection.Primitives",
+            "name": "System.Reflection.Primitives.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "8d9e2c82a3d1798644385846fb56f168e28002de"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Reflection.Primitives/System.Reflection.Primitives.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Reflection.Primitives:System.Reflection.Primitives.dll:4.3.0"
+        },
+        {
+            "group": "NETStandard.Library",
+            "name": "NETStandard.Library.dll",
+            "version": "1.6.1",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "e333c1acbb5a4c7361b900c5dc7ee4beb773c2ec"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/NETStandard.Library/NETStandard.Library.dll@1.6.1",
+            "type": "library",
+            "bom-ref": "urn:cdx:NETStandard.Library:NETStandard.Library.dll:1.6.1"
+        },
+        {
+            "group": "System.ComponentModel.Primitives",
+            "name": "System.ComponentModel.Primitives.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "d2de8dafbed204b11fbb36c49a4473d7927d65c7"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.ComponentModel.Primitives/System.ComponentModel.Primitives.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.ComponentModel.Primitives:System.ComponentModel.Primitives.dll:4.3.0"
+        },
+        {
+            "group": "System.Data.SqlClient",
+            "name": "System.Data.SqlClient.dll",
+            "version": "4.8.3",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "7001856c1af34e28ca82bb1869b4e382ce87bc1f"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Data.SqlClient/System.Data.SqlClient.dll@4.8.3",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Data.SqlClient:System.Data.SqlClient.dll:4.8.3"
+        },
+        {
+            "group": "Microsoft.NETCore.Targets",
+            "name": "Microsoft.NETCore.Targets.dll",
+            "version": "1.1.3",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.NETCore.Targets:Microsoft.NETCore.Targets.dll:1.1.3"
+        },
+        {
+            "group": "System.Xml.ReaderWriter",
+            "name": "System.Xml.ReaderWriter.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "765c9e4d36b4f2986514c1ab24b5e5e56afff448"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Xml.ReaderWriter/System.Xml.ReaderWriter.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Xml.ReaderWriter:System.Xml.ReaderWriter.dll:4.3.0"
+        },
+        {
+            "group": "NuGet.Frameworks",
+            "name": "NuGet.Frameworks.dll",
+            "version": "6.2.1",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "76c4b2dced20e3a0937b283875a828c268866aba"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/NuGet.Frameworks/NuGet.Frameworks.dll@6.2.1",
+            "type": "library",
+            "bom-ref": "urn:cdx:NuGet.Frameworks:NuGet.Frameworks.dll:6.2.1"
+        },
+        {
+            "group": "System.Runtime.InteropServices",
+            "name": "System.Runtime.InteropServices.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "2dad0a731fbdf5dba19b46906e2c6aeb5a500b78"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Runtime.InteropServices/System.Runtime.InteropServices.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Runtime.InteropServices:System.Runtime.InteropServices.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.CodeAnalysis.CSharp.Features",
+            "name": "Microsoft.CodeAnalysis.CSharp.Features.dll",
+            "version": "4.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "7d0d83297f4c1fea0fd99fe932b63a80a649e9ea"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.CodeAnalysis.CSharp.Features/Microsoft.CodeAnalysis.CSharp.Features.dll@4.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.CodeAnalysis.CSharp.Features:Microsoft.CodeAnalysis.CSharp.Features.dll:4.0.0"
+        },
+        {
+            "group": "Microsoft.EntityFrameworkCore",
+            "name": "Microsoft.EntityFrameworkCore.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "92a550bbad5483e051ad9f93a9c01a452104cd34"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.EntityFrameworkCore/Microsoft.EntityFrameworkCore.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.EntityFrameworkCore:Microsoft.EntityFrameworkCore.dll:6.0.8"
+        },
+        {
+            "group": "System.Security.Cryptography.Cng",
+            "name": "System.Security.Cryptography.Cng.dll",
+            "version": "5.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "397a1cbafe9bf32832d47ea7fe72eb535db8ad5e"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Security.Cryptography.Cng/System.Security.Cryptography.Cng.dll@5.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Security.Cryptography.Cng:System.Security.Cryptography.Cng.dll:5.0.0"
+        },
+        {
+            "group": "System.Xml.XmlDocument",
+            "name": "System.Xml.XmlDocument.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "e4bfbd7f5db31ea919537d0510cf8b224e4e97b5"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Xml.XmlDocument/System.Xml.XmlDocument.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Xml.XmlDocument:System.Xml.XmlDocument.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.VisualStudio.Web.CodeGeneration.Utils",
+            "name": "Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "6b5a8bab0bcef6d4944dc2aa9dfc8b861a5b6dea"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.Utils/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.VisualStudio.Web.CodeGeneration.Utils:Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll:6.0.8"
+        },
+        {
+            "group": "System.Console",
+            "name": "System.Console.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "b5102629939ebdd4bcd0f407a92828dee5f2b565"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Console/System.Console.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Console:System.Console.dll:4.3.0"
+        },
+        {
+            "group": "System.Reflection.Extensions",
+            "name": "System.Reflection.Extensions.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "102c97a8a61e4806f43df7d8a7b82552f9eb0879"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Reflection.Extensions/System.Reflection.Extensions.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Reflection.Extensions:System.Reflection.Extensions.dll:4.3.0"
+        },
+        {
+            "group": "NuGet.ProjectModel",
+            "name": "NuGet.ProjectModel.dll",
+            "version": "5.11.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "abc122eb94f1f77c642c9e88c424443ff426eef2"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/NuGet.ProjectModel/NuGet.ProjectModel.dll@5.11.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:NuGet.ProjectModel:NuGet.ProjectModel.dll:5.11.0"
+        },
+        {
+            "group": "System.Diagnostics.Tracing",
+            "name": "System.Diagnostics.Tracing.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "5340b1fc77e793d1fdde49b14b7b426d0e448870"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Diagnostics.Tracing/System.Diagnostics.Tracing.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Diagnostics.Tracing:System.Diagnostics.Tracing.dll:4.3.0"
+        },
+        {
+            "group": "NuGet.DependencyResolver.Core",
+            "name": "NuGet.DependencyResolver.Core.dll",
+            "version": "5.11.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "05f3558141bc4b7701dee80f74131c24732ca9af"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/NuGet.DependencyResolver.Core/NuGet.DependencyResolver.Core.dll@5.11.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:NuGet.DependencyResolver.Core:NuGet.DependencyResolver.Core.dll:5.11.0"
+        },
+        {
+            "group": "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+            "name": "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "94daff182b2531e548206a8bad0c6fd3193979e1"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl/runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl:runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll:4.3.0"
+        },
+        {
+            "group": "System.Globalization.Extensions",
+            "name": "System.Globalization.Extensions.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "3f180b6270e3019d734e6c0bc4853f88264b538b"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Globalization.Extensions/System.Globalization.Extensions.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Globalization.Extensions:System.Globalization.Extensions.dll:4.3.0"
+        },
+        {
+            "group": "runtime.native.System.Data.SqlClient.sni",
+            "name": "runtime.native.System.Data.SqlClient.sni.dll",
+            "version": "4.7.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "78477b543c5ad1932552eeb4521de304726ee077"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/runtime.native.System.Data.SqlClient.sni/runtime.native.System.Data.SqlClient.sni.dll@4.7.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.native.System.Data.SqlClient.sni:runtime.native.System.Data.SqlClient.sni.dll:4.7.0"
+        },
+        {
+            "group": "Microsoft.Extensions.Logging",
+            "name": "Microsoft.Extensions.Logging.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "7bea9201a90f69ff958f5bf64e959d1e4021f252"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Extensions.Logging/Microsoft.Extensions.Logging.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Extensions.Logging:Microsoft.Extensions.Logging.dll:6.0.0"
+        },
+        {
+            "group": "System.Runtime",
+            "name": "System.Runtime.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "7e549944512de844b49aad4b9d4a9547c06ede37"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Runtime/System.Runtime.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Runtime:System.Runtime.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.Build.Locator",
+            "name": "Microsoft.Build.Locator.dll",
+            "version": "1.4.1",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "17d961f83b6e4203f4b06fbcad4a024b354592aa"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Build.Locator/Microsoft.Build.Locator.dll@1.4.1",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Build.Locator:Microsoft.Build.Locator.dll:1.4.1"
+        },
+        {
+            "group": "System.Linq",
+            "name": "System.Linq.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "866b9a8a7dcb00a90990b6cef915e48464ce2fd7"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Linq/System.Linq.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Linq:System.Linq.dll:4.3.0"
+        },
+        {
+            "group": "System.Text.Encoding.CodePages",
+            "name": "System.Text.Encoding.CodePages.dll",
+            "version": "4.5.1",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "9eb22858ceaecd3dc7f6398b7c607b73cf6ce7e2"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Text.Encoding.CodePages/System.Text.Encoding.CodePages.dll@4.5.1",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Text.Encoding.CodePages:System.Text.Encoding.CodePages.dll:4.5.1"
+        },
+        {
+            "group": "System.Security.Cryptography.Pkcs",
+            "name": "System.Security.Cryptography.Pkcs.dll",
+            "version": "5.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "ad5e70f92d39fd561db539f64d9f6fb9347601ca"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Security.Cryptography.Pkcs/System.Security.Cryptography.Pkcs.dll@5.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Security.Cryptography.Pkcs:System.Security.Cryptography.Pkcs.dll:5.0.0"
+        },
+        {
+            "group": "System.Security.Principal.Windows",
+            "name": "System.Security.Principal.Windows.dll",
+            "version": "4.7.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "2aed74577f5f623f7e910adda8ef74a11eea0437"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Security.Principal.Windows/System.Security.Principal.Windows.dll@4.7.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Security.Principal.Windows:System.Security.Principal.Windows.dll:4.7.0"
+        },
+        {
+            "group": "SQLitePCLRaw.lib.e_sqlite3",
+            "name": "SQLitePCLRaw.lib.e_sqlite3.dll",
+            "version": "2.0.6",
+            "type": "library",
+            "bom-ref": "urn:cdx:SQLitePCLRaw.lib.e_sqlite3:SQLitePCLRaw.lib.e_sqlite3.dll:2.0.6"
+        },
+        {
+            "group": "System.Threading.Timer",
+            "name": "System.Threading.Timer.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "af7bf80372958b5c4b15617d1c3f52eb19b51dd2"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Threading.Timer/System.Threading.Timer.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Threading.Timer:System.Threading.Timer.dll:4.3.0"
+        },
+        {
+            "group": "System.Text.Encoding.Extensions",
+            "name": "System.Text.Encoding.Extensions.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "a372eda9efc21fd6ce607f0b82df81801ffc15cd"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Text.Encoding.Extensions/System.Text.Encoding.Extensions.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Text.Encoding.Extensions:System.Text.Encoding.Extensions.dll:4.3.0"
+        },
+        {
+            "group": "NuGet.Common",
+            "name": "NuGet.Common.dll",
+            "version": "6.2.1",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "2c73857e040eb41d1c315448ad35025271e4634f"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/NuGet.Common/NuGet.Common.dll@6.2.1",
+            "type": "library",
+            "bom-ref": "urn:cdx:NuGet.Common:NuGet.Common.dll:6.2.1"
+        },
+        {
+            "group": "runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+            "name": "runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "be53236e2b6def12b9f4296f5f5f3a2f2792fe36"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl/runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl:runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll:4.3.0"
+        },
+        {
+            "group": "System.Threading",
+            "name": "System.Threading.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "e706450038f0fbd62bdcdae9543e9c1a6618cd97"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Threading/System.Threading.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Threading:System.Threading.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.CodeAnalysis.Analyzers",
+            "name": "Microsoft.CodeAnalysis.Analyzers.dll",
+            "version": "3.3.2",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "6a4d8938bc63f9d2abfb28d782d1055121f54515"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.CodeAnalysis.Analyzers/Microsoft.CodeAnalysis.Analyzers.dll@3.3.2",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.CodeAnalysis.Analyzers:Microsoft.CodeAnalysis.Analyzers.dll:3.3.2"
+        },
+        {
+            "group": "System.Runtime.Numerics",
+            "name": "System.Runtime.Numerics.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "923593908a599c2017418b80bad8bd1783cb6935"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Runtime.Numerics/System.Runtime.Numerics.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Runtime.Numerics:System.Runtime.Numerics.dll:4.3.0"
+        },
+        {
+            "group": "System.ComponentModel",
+            "name": "System.ComponentModel.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "282143b10945470d29f6b64ec731b43e3332f67f"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.ComponentModel/System.ComponentModel.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.ComponentModel:System.ComponentModel.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.AspNetCore.Identity.UI",
+            "name": "Microsoft.AspNetCore.Identity.UI.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "66acf763bbc93b3ade829ae81c2ee17e4e9fac49"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.AspNetCore.Identity.UI/Microsoft.AspNetCore.Identity.UI.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.AspNetCore.Identity.UI:Microsoft.AspNetCore.Identity.UI.dll:6.0.8"
+        },
+        {
+            "group": "Microsoft.AspNet.Razor",
+            "name": "Microsoft.AspNet.Razor.dll",
+            "version": "3.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.AspNet.Razor:Microsoft.AspNet.Razor.dll:3.3.0"
+        },
+        {
+            "group": "System.Drawing.Common",
+            "name": "System.Drawing.Common.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "63818aa57df37b642618bfa699ef33aa1d152bd0"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Drawing.Common/System.Drawing.Common.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Drawing.Common:System.Drawing.Common.dll:6.0.0"
+        },
+        {
+            "group": "System.Security.Permissions",
+            "name": "System.Security.Permissions.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "e4d4b83d0eada7c7dacb722faf0b9566691f5736"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Security.Permissions/System.Security.Permissions.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Security.Permissions:System.Security.Permissions.dll:6.0.0"
+        },
+        {
+            "group": "Microsoft.AspNetCore.Cryptography.KeyDerivation",
+            "name": "Microsoft.AspNetCore.Cryptography.KeyDerivation.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "725cab69b91bb37be008e0c3728616b3c7e60ce3"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.AspNetCore.Cryptography.KeyDerivation/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.AspNetCore.Cryptography.KeyDerivation:Microsoft.AspNetCore.Cryptography.KeyDerivation.dll:6.0.8"
+        },
+        {
+            "group": "Microsoft.EntityFrameworkCore.Abstractions",
+            "name": "Microsoft.EntityFrameworkCore.Abstractions.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "40740f013a643340a1c87c8023031e448a19320b"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.EntityFrameworkCore.Abstractions/Microsoft.EntityFrameworkCore.Abstractions.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.EntityFrameworkCore.Abstractions:Microsoft.EntityFrameworkCore.Abstractions.dll:6.0.8"
+        },
+        {
+            "group": "System.Composition.Hosting",
+            "name": "System.Composition.Hosting.dll",
+            "version": "1.0.31",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "176d597ad944efd1774759f9032d86c8ba216813"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Composition.Hosting/System.Composition.Hosting.dll@1.0.31",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Composition.Hosting:System.Composition.Hosting.dll:1.0.31"
+        },
+        {
+            "group": "Microsoft.VisualStudio.Web.CodeGenerators.Mvc",
+            "name": "Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "48af85fed72904a65be862c98f525a53e93f7ac6"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.VisualStudio.Web.CodeGenerators.Mvc/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.VisualStudio.Web.CodeGenerators.Mvc:Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll:6.0.8"
+        },
+        {
+            "group": "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+            "name": "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "f6c97c06c811eaac1152f257e159d110f78ee002"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl:runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll:4.3.0"
+        },
+        {
+            "group": "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+            "name": "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "29990e37008e3066e6f50abd654952cc2ec3ac84"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl:runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll:4.3.0"
+        },
+        {
+            "group": "runtime.native.System.Net.Http",
+            "name": "runtime.native.System.Net.Http.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "2dd6263c2d18113d53ac896d1752f1badedefc0c"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.native.System.Net.Http/runtime.native.System.Net.Http.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.native.System.Net.Http:runtime.native.System.Net.Http.dll:4.3.0"
+        },
+        {
+            "group": "System.Net.Sockets",
+            "name": "System.Net.Sockets.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "00278d53e59026cd8c22889773466fef27d52bbf"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Net.Sockets/System.Net.Sockets.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Net.Sockets:System.Net.Sockets.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.VisualStudio.Web.CodeGeneration.Core",
+            "name": "Microsoft.VisualStudio.Web.CodeGeneration.Core.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "23529904b5475c562a2c2a87e999fd26429b5ba2"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.Core/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.VisualStudio.Web.CodeGeneration.Core:Microsoft.VisualStudio.Web.CodeGeneration.Core.dll:6.0.8"
+        },
+        {
+            "group": "Microsoft.Extensions.Options",
+            "name": "Microsoft.Extensions.Options.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "ac4eca8d761cb23fd716629a8e5c26020cf532e2"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Extensions.Options/Microsoft.Extensions.Options.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Extensions.Options:Microsoft.Extensions.Options.dll:6.0.0"
+        },
+        {
+            "group": "Microsoft.VisualStudio.Web.CodeGeneration",
+            "name": "Microsoft.VisualStudio.Web.CodeGeneration.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "fddfc2fcfbae2d3ae7a3eae84075cfed5d490e10"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration/Microsoft.VisualStudio.Web.CodeGeneration.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.VisualStudio.Web.CodeGeneration:Microsoft.VisualStudio.Web.CodeGeneration.dll:6.0.8"
+        },
+        {
+            "group": "Microsoft.AspNetCore.Mvc.Razor.Extensions",
+            "name": "Microsoft.AspNetCore.Mvc.Razor.Extensions.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "7e62775e6489062c7e6e93bc2e1dfa5a1056eb1f"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.AspNetCore.Mvc.Razor.Extensions/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.AspNetCore.Mvc.Razor.Extensions:Microsoft.AspNetCore.Mvc.Razor.Extensions.dll:6.0.8"
+        },
+        {
+            "group": "Microsoft.Extensions.FileProviders.Embedded",
+            "name": "Microsoft.Extensions.FileProviders.Embedded.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "ab0767ae3346fb0a6f612f85a1e698cd99c0e9fc"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Extensions.FileProviders.Embedded/Microsoft.Extensions.FileProviders.Embedded.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Extensions.FileProviders.Embedded:Microsoft.Extensions.FileProviders.Embedded.dll:6.0.8"
+        },
+        {
+            "group": "System.Net.Primitives",
+            "name": "System.Net.Primitives.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "9bbe338c76385a7dce8abdb91483007c318f5884"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Net.Primitives/System.Net.Primitives.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Net.Primitives:System.Net.Primitives.dll:4.3.0"
+        },
+        {
+            "group": "System.Composition.Convention",
+            "name": "System.Composition.Convention.dll",
+            "version": "1.0.31",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "02b3a0404bdfe06f0bcdddea28ff2fff059d805d"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Composition.Convention/System.Composition.Convention.dll@1.0.31",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Composition.Convention:System.Composition.Convention.dll:1.0.31"
+        },
+        {
+            "group": "NuGet.Versioning",
+            "name": "NuGet.Versioning.dll",
+            "version": "6.2.1",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "9270788d0a9d7c43953dfafc61185feae151f9c8"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/NuGet.Versioning/NuGet.Versioning.dll@6.2.1",
+            "type": "library",
+            "bom-ref": "urn:cdx:NuGet.Versioning:NuGet.Versioning.dll:6.2.1"
+        },
+        {
+            "group": "Microsoft.CodeAnalysis.Razor",
+            "name": "Microsoft.CodeAnalysis.Razor.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "eddd74bf758db52fac18f42cf1bbadba049846e1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.CodeAnalysis.Razor/Microsoft.CodeAnalysis.Razor.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.CodeAnalysis.Razor:Microsoft.CodeAnalysis.Razor.dll:6.0.8"
+        },
+        {
+            "group": "Microsoft.Data.Sqlite.Core",
+            "name": "Microsoft.Data.Sqlite.Core.dll",
+            "version": "6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Data.Sqlite.Core:Microsoft.Data.Sqlite.Core.dll:6.0.8"
+        },
+        {
+            "group": "System.Memory",
+            "name": "System.Memory.dll",
+            "version": "4.5.4",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "19bf79600b716523b5317b9a7b68760ae5d55741"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Memory/System.Memory.dll@4.5.4",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Memory:System.Memory.dll:4.5.4"
+        },
+        {
+            "group": "System.Collections",
+            "name": "System.Collections.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "a92d88eed2878048dd52979e98cfde3b9e338003"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Collections/System.Collections.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Collections:System.Collections.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.CodeAnalysis.AnalyzerUtilities",
+            "name": "Microsoft.CodeAnalysis.AnalyzerUtilities.dll",
+            "version": "3.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "3a2e177e15e4044f1d9117d72971bbce60e438eb"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.CodeAnalysis.AnalyzerUtilities/Microsoft.CodeAnalysis.AnalyzerUtilities.dll@3.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.CodeAnalysis.AnalyzerUtilities:Microsoft.CodeAnalysis.AnalyzerUtilities.dll:3.3.0"
+        },
+        {
+            "group": "Microsoft.Web.Infrastructure",
+            "name": "Microsoft.Web.Infrastructure.dll",
+            "version": "1.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "91f688c235388c8bcee03ff20d0c8a90dbdd4e3e"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/Microsoft.Web.Infrastructure/Microsoft.Web.Infrastructure.dll@1.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Web.Infrastructure:Microsoft.Web.Infrastructure.dll:1.0.0"
+        },
+        {
+            "group": "System.Threading.Tasks",
+            "name": "System.Threading.Tasks.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "5b68b4c12a262d524cb3fdddeacf5bb53bf02a1c"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Threading.Tasks/System.Threading.Tasks.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Threading.Tasks:System.Threading.Tasks.dll:4.3.0"
+        },
+        {
+            "group": "System.Security.AccessControl",
+            "name": "System.Security.AccessControl.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "83014e2a98f7597b9a26e424a0759e5a3d2ecff1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Security.AccessControl/System.Security.AccessControl.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Security.AccessControl:System.Security.AccessControl.dll:6.0.0"
+        },
+        {
+            "group": "System.Text.RegularExpressions",
+            "name": "System.Text.RegularExpressions.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "0d5569664c2c25a1fc8d9ea2d582e5d299e5ab1c"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Text.RegularExpressions/System.Text.RegularExpressions.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Text.RegularExpressions:System.Text.RegularExpressions.dll:4.3.0"
+        },
+        {
+            "group": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
+            "name": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni.dll",
+            "version": "4.4.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "017cab2be90cd13a3a0b74be8e4d9d7c49388d14"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.win-x86.runtime.native.System.Data.SqlClient.sni/runtime.win-x86.runtime.native.System.Data.SqlClient.sni.dll@4.4.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.win-x86.runtime.native.System.Data.SqlClient.sni:runtime.win-x86.runtime.native.System.Data.SqlClient.sni.dll:4.4.0"
+        },
+        {
+            "group": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
+            "name": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni.dll",
+            "version": "4.4.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "ec9570a326dbe94db49373c068b6d53e797fae00"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.win-x64.runtime.native.System.Data.SqlClient.sni/runtime.win-x64.runtime.native.System.Data.SqlClient.sni.dll@4.4.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.win-x64.runtime.native.System.Data.SqlClient.sni:runtime.win-x64.runtime.native.System.Data.SqlClient.sni.dll:4.4.0"
+        },
+        {
+            "group": "MessagePack",
+            "name": "MessagePack.dll",
+            "version": "2.1.152",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "dd5ffa83ca21a8e70f1063c55193a8e62f92d629"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/MessagePack/MessagePack.dll@2.1.152",
+            "type": "library",
+            "bom-ref": "urn:cdx:MessagePack:MessagePack.dll:2.1.152"
+        },
+        {
+            "group": "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+            "name": "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "3e6ac1ed217ab380f5d40c4d88e8cd33f1ba1b9f"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl:runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.Extensions.DependencyInjection",
+            "name": "Microsoft.Extensions.DependencyInjection.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "1657d4bcbbb51498a76955094ffe55050943aad5"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Extensions.DependencyInjection/Microsoft.Extensions.DependencyInjection.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Extensions.DependencyInjection:Microsoft.Extensions.DependencyInjection.dll:6.0.0"
+        },
+        {
+            "group": "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+            "name": "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "d7726ea7b64b40fb393b22a94c878649503ba1e6"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl/runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl:runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll:4.3.0"
+        },
+        {
+            "group": "System.Reflection.Emit.ILGeneration",
+            "name": "System.Reflection.Emit.ILGeneration.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "64530c5f312b3555410bc43c9dca7b0602b3bcd8"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Reflection.Emit.ILGeneration/System.Reflection.Emit.ILGeneration.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Reflection.Emit.ILGeneration:System.Reflection.Emit.ILGeneration.dll:4.3.0"
+        },
+        {
+            "group": "runtime.native.System.Security.Cryptography.Apple",
+            "name": "runtime.native.System.Security.Cryptography.Apple.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "52aed1bfd225624be69e35780f8902ba15dd9f50"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.native.System.Security.Cryptography.Apple/runtime.native.System.Security.Cryptography.Apple.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.native.System.Security.Cryptography.Apple:runtime.native.System.Security.Cryptography.Apple.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.VisualStudio.Debugger.Contracts",
+            "name": "Microsoft.VisualStudio.Debugger.Contracts.dll",
+            "version": "17.2.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "c7a0742482a13073618c7025e7e82def56adf440"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/Microsoft.VisualStudio.Debugger.Contracts/Microsoft.VisualStudio.Debugger.Contracts.dll@17.2.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.VisualStudio.Debugger.Contracts:Microsoft.VisualStudio.Debugger.Contracts.dll:17.2.0"
+        },
+        {
+            "group": "Microsoft.CodeAnalysis.VisualBasic.Features",
+            "name": "Microsoft.CodeAnalysis.VisualBasic.Features.dll",
+            "version": "4.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "5a8a32c1bbb3d291f7bd7e52c29eb26842e03f50"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.CodeAnalysis.VisualBasic.Features/Microsoft.CodeAnalysis.VisualBasic.Features.dll@4.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.CodeAnalysis.VisualBasic.Features:Microsoft.CodeAnalysis.VisualBasic.Features.dll:4.0.0"
+        },
+        {
+            "group": "System.Collections.Immutable",
+            "name": "System.Collections.Immutable.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "3c4431c132c9729f72df3f1dedc3d1687162aa37"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Collections.Immutable/System.Collections.Immutable.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Collections.Immutable:System.Collections.Immutable.dll:6.0.0"
+        },
+        {
+            "group": "System.Text.Encodings.Web",
+            "name": "System.Text.Encodings.Web.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "eb5beb947ab71fc9bac1e31c43813effce98bd5e"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Text.Encodings.Web/System.Text.Encodings.Web.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Text.Encodings.Web:System.Text.Encodings.Web.dll:6.0.0"
+        },
+        {
+            "group": "Microsoft.CodeAnalysis.CSharp",
+            "name": "Microsoft.CodeAnalysis.CSharp.dll",
+            "version": "4.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "6cd8967c3fda7403ec15284aca819863b4738e2f"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.CodeAnalysis.CSharp/Microsoft.CodeAnalysis.CSharp.dll@4.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.CodeAnalysis.CSharp:Microsoft.CodeAnalysis.CSharp.dll:4.0.0"
+        },
+        {
+            "group": "Microsoft.Extensions.Caching.Memory",
+            "name": "Microsoft.Extensions.Caching.Memory.dll",
+            "version": "6.0.1",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "be8e548d0500cc6daf14c46ac79b441cf7643238"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Extensions.Caching.Memory/Microsoft.Extensions.Caching.Memory.dll@6.0.1",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Extensions.Caching.Memory:Microsoft.Extensions.Caching.Memory.dll:6.0.1"
+        },
+        {
+            "group": "System.Composition",
+            "name": "System.Composition.dll",
+            "version": "1.0.31",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Composition:System.Composition.dll:1.0.31"
+        },
+        {
+            "group": "System.Security.Cryptography.Csp",
+            "name": "System.Security.Cryptography.Csp.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "5509c30dd01598b541a7cf7631b5d656ac4f4d11"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Security.Cryptography.Csp/System.Security.Cryptography.Csp.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Security.Cryptography.Csp:System.Security.Cryptography.Csp.dll:4.3.0"
+        },
+        {
+            "group": "System.Configuration.ConfigurationManager",
+            "name": "System.Configuration.ConfigurationManager.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "6a511a5688b188c4d1615cede33b1e5278376001"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Configuration.ConfigurationManager/System.Configuration.ConfigurationManager.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Configuration.ConfigurationManager:System.Configuration.ConfigurationManager.dll:6.0.0"
+        },
+        {
+            "group": "Microsoft.EntityFrameworkCore.Tools",
+            "name": "Microsoft.EntityFrameworkCore.Tools.dll",
+            "version": "6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.EntityFrameworkCore.Tools:Microsoft.EntityFrameworkCore.Tools.dll:6.0.8"
+        },
+        {
+            "group": "System.Reflection.TypeExtensions",
+            "name": "System.Reflection.TypeExtensions.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "a2f6546bc28ce3367007555fb5077953c2c9ade9"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Reflection.TypeExtensions/System.Reflection.TypeExtensions.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Reflection.TypeExtensions:System.Reflection.TypeExtensions.dll:4.3.0"
+        },
+        {
+            "group": "System.Threading.Tasks.Dataflow",
+            "name": "System.Threading.Tasks.Dataflow.dll",
+            "version": "4.9.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "cfa21b1f1d79eeca573bf72082a4bf1540e869d5"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Threading.Tasks.Dataflow/System.Threading.Tasks.Dataflow.dll@4.9.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Threading.Tasks.Dataflow:System.Threading.Tasks.Dataflow.dll:4.9.0"
+        },
+        {
+            "group": "SQLitePCLRaw.bundle_e_sqlite3",
+            "name": "SQLitePCLRaw.bundle_e_sqlite3.dll",
+            "version": "2.0.6",
+            "type": "library",
+            "bom-ref": "urn:cdx:SQLitePCLRaw.bundle_e_sqlite3:SQLitePCLRaw.bundle_e_sqlite3.dll:2.0.6"
+        },
+        {
+            "group": "System.Diagnostics.Tools",
+            "name": "System.Diagnostics.Tools.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "f97027f9ada12c1e7649c590391af24fc90af44d"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Diagnostics.Tools/System.Diagnostics.Tools.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Diagnostics.Tools:System.Diagnostics.Tools.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.Extensions.Configuration.Abstractions",
+            "name": "Microsoft.Extensions.Configuration.Abstractions.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "4957c67dcddc2a143d5fc9717516594d0d71d7c8"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Extensions.Configuration.Abstractions/Microsoft.Extensions.Configuration.Abstractions.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Extensions.Configuration.Abstractions:Microsoft.Extensions.Configuration.Abstractions.dll:6.0.0"
+        },
+        {
+            "group": "System.IO",
+            "name": "System.IO.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "ba5f2caa404ae9a283a841c08b024baf8817ba01"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.IO/System.IO.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.IO:System.IO.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.AspNetCore.Cryptography.Internal",
+            "name": "Microsoft.AspNetCore.Cryptography.Internal.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "b79dc16e57aa00ce5d343af9f811268d2e65ad03"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.AspNetCore.Cryptography.Internal/Microsoft.AspNetCore.Cryptography.Internal.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.AspNetCore.Cryptography.Internal:Microsoft.AspNetCore.Cryptography.Internal.dll:6.0.8"
+        },
+        {
+            "group": "System.AppContext",
+            "name": "System.AppContext.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "72b741cfa682b317bdcd6ff6530898393fdf15ec"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.AppContext/System.AppContext.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.AppContext:System.AppContext.dll:4.3.0"
+        },
+        {
+            "group": "System.Private.Uri",
+            "name": "System.Private.Uri.dll",
+            "version": "4.3.2",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Private.Uri:System.Private.Uri.dll:4.3.2"
+        },
+        {
+            "group": "SQLitePCLRaw.core",
+            "name": "SQLitePCLRaw.core.dll",
+            "version": "2.0.6",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "53cf59d7b192f570d528b4d5c72dfa7ac25e1d7b"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/SQLitePCLRaw.core/SQLitePCLRaw.core.dll@2.0.6",
+            "type": "library",
+            "bom-ref": "urn:cdx:SQLitePCLRaw.core:SQLitePCLRaw.core.dll:2.0.6"
+        },
+        {
+            "group": "System.IO.FileSystem",
+            "name": "System.IO.FileSystem.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "b46ad93384323ed4aa88e8af3cdee208a88f1f6d"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.IO.FileSystem/System.IO.FileSystem.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.IO.FileSystem:System.IO.FileSystem.dll:4.3.0"
+        },
+        {
+            "group": "System.Runtime.CompilerServices.Unsafe",
+            "name": "System.Runtime.CompilerServices.Unsafe.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "9b076e5f2d3869e3abf5422055ce8257255f1618"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Runtime.CompilerServices.Unsafe/System.Runtime.CompilerServices.Unsafe.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Runtime.CompilerServices.Unsafe:System.Runtime.CompilerServices.Unsafe.dll:6.0.0"
+        },
+        {
+            "group": "System.ComponentModel.TypeConverter",
+            "name": "System.ComponentModel.TypeConverter.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "6ce1a1df1e56b75aec7d5e4389488d2987bfccaa"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.ComponentModel.TypeConverter/System.ComponentModel.TypeConverter.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.ComponentModel.TypeConverter:System.ComponentModel.TypeConverter.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.NETCore.Platforms",
+            "name": "Microsoft.NETCore.Platforms.dll",
+            "version": "2.1.2",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.NETCore.Platforms:Microsoft.NETCore.Platforms.dll:2.1.2"
+        },
+        {
+            "group": "NuGet.LibraryModel",
+            "name": "NuGet.LibraryModel.dll",
+            "version": "5.11.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "1f835b77614b80ee1d8d14cbea49a38676292a10"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/NuGet.LibraryModel/NuGet.LibraryModel.dll@5.11.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:NuGet.LibraryModel:NuGet.LibraryModel.dll:5.11.0"
+        },
+        {
+            "group": "Microsoft.Extensions.Logging.Abstractions",
+            "name": "Microsoft.Extensions.Logging.Abstractions.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "06c5230b13f5064c808999881ed4c45902355c9f"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Extensions.Logging.Abstractions/Microsoft.Extensions.Logging.Abstractions.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Extensions.Logging.Abstractions:Microsoft.Extensions.Logging.Abstractions.dll:6.0.0"
+        },
+        {
+            "group": "System.IO.Pipelines",
+            "name": "System.IO.Pipelines.dll",
+            "version": "5.0.1",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "efbd072c12a13800dfa9f46f9fabe472fe57baab"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.IO.Pipelines/System.IO.Pipelines.dll@5.0.1",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.IO.Pipelines:System.IO.Pipelines.dll:5.0.1"
+        },
+        {
+            "group": "System.Security.Cryptography.X509Certificates",
+            "name": "System.Security.Cryptography.X509Certificates.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "4beb5c11208affad40bdac6672a7b0b7b4558e7b"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Security.Cryptography.X509Certificates/System.Security.Cryptography.X509Certificates.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Security.Cryptography.X509Certificates:System.Security.Cryptography.X509Certificates.dll:4.3.0"
+        },
+        {
+            "group": "System.Collections.Specialized",
+            "name": "System.Collections.Specialized.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "b36b4d328c2bd9515f6d14ece8d1f3cb38b9edef"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Collections.Specialized/System.Collections.Specialized.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Collections.Specialized:System.Collections.Specialized.dll:4.3.0"
+        },
+        {
+            "group": "System.Globalization",
+            "name": "System.Globalization.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "879325a6b71bbdea6f2d2f9d85311559653b4f11"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Globalization/System.Globalization.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Globalization:System.Globalization.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.DotNet.Scaffolding.Shared",
+            "name": "Microsoft.DotNet.Scaffolding.Shared.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "c6ae04621da8ff47536d1b626d60e0a6117fb6cb"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.DotNet.Scaffolding.Shared/Microsoft.DotNet.Scaffolding.Shared.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.DotNet.Scaffolding.Shared:Microsoft.DotNet.Scaffolding.Shared.dll:6.0.8"
+        },
+        {
+            "group": "Microsoft.Build",
+            "name": "Microsoft.Build.dll",
+            "version": "17.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "289195b3c1a2189f6a2002dfc62d2da110030ee1"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Build/Microsoft.Build.dll@17.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Build:Microsoft.Build.dll:17.0.0"
+        },
+        {
+            "group": "Microsoft.Win32.Registry",
+            "name": "Microsoft.Win32.Registry.dll",
+            "version": "4.7.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "81a84d647e1199a9e6128cfe957b73f6b0b1cab6"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Win32.Registry/Microsoft.Win32.Registry.dll@4.7.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Win32.Registry:Microsoft.Win32.Registry.dll:4.7.0"
+        },
+        {
+            "group": "Microsoft.CodeAnalysis.VisualBasic",
+            "name": "Microsoft.CodeAnalysis.VisualBasic.dll",
+            "version": "4.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "eb3535d9b150e1e417bd3a35b760acebb64b4046"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.CodeAnalysis.VisualBasic/Microsoft.CodeAnalysis.VisualBasic.dll@4.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.CodeAnalysis.VisualBasic:Microsoft.CodeAnalysis.VisualBasic.dll:4.0.0"
+        },
+        {
+            "group": "System.Diagnostics.Debug",
+            "name": "System.Diagnostics.Debug.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "f630d51497ad47f1bf506038a8d6e02c8db9ee0c"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Diagnostics.Debug/System.Diagnostics.Debug.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Diagnostics.Debug:System.Diagnostics.Debug.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.CodeAnalysis.Common",
+            "name": "Microsoft.CodeAnalysis.Common.dll",
+            "version": "4.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.CodeAnalysis.Common:Microsoft.CodeAnalysis.Common.dll:4.0.0"
+        },
+        {
+            "group": "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+            "name": "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "ed6e794305b14f464d31b4911cf8eb8c8a8284f6"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl:runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll:4.3.0"
+        },
+        {
+            "group": "System.Runtime.InteropServices.RuntimeInformation",
+            "name": "System.Runtime.InteropServices.RuntimeInformation.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "4fa8eec0944d31df3d4111d18b650f2f670496b0"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Runtime.InteropServices.RuntimeInformation/System.Runtime.InteropServices.RuntimeInformation.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Runtime.InteropServices.RuntimeInformation:System.Runtime.InteropServices.RuntimeInformation.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.Build.Framework",
+            "name": "Microsoft.Build.Framework.dll",
+            "version": "17.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "eff7d0b308a2f70c97f0b035cb28874feda113d2"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Build.Framework/Microsoft.Build.Framework.dll@17.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Build.Framework:Microsoft.Build.Framework.dll:17.0.0"
+        },
+        {
+            "group": "System.Collections.Concurrent",
+            "name": "System.Collections.Concurrent.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "5c9974c132931c857c5200143c9dfe9efee5dbbf"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Collections.Concurrent/System.Collections.Concurrent.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Collections.Concurrent:System.Collections.Concurrent.dll:4.3.0"
+        },
+        {
+            "group": "System.Linq.Expressions",
+            "name": "System.Linq.Expressions.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "da360225bfc5b432c89190987ee4fff09d458d01"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Linq.Expressions/System.Linq.Expressions.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Linq.Expressions:System.Linq.Expressions.dll:4.3.0"
+        },
+        {
+            "group": "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+            "name": "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "cc9e32e7a544560c7badc7f9d9e10a22f4fd1f39"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl:runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll:4.3.0"
+        },
+        {
+            "group": "NuGet.Configuration",
+            "name": "NuGet.Configuration.dll",
+            "version": "6.2.1",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "055fc2029f11c3c171599136fff572b38c2b7642"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/NuGet.Configuration/NuGet.Configuration.dll@6.2.1",
+            "type": "library",
+            "bom-ref": "urn:cdx:NuGet.Configuration:NuGet.Configuration.dll:6.2.1"
+        },
+        {
+            "group": "System.ObjectModel",
+            "name": "System.ObjectModel.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "10cd21d42b2bcb10aff918fffad00662b547ff97"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.ObjectModel/System.ObjectModel.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.ObjectModel:System.ObjectModel.dll:4.3.0"
+        },
+        {
+            "group": "System.Reflection.Metadata",
+            "name": "System.Reflection.Metadata.dll",
+            "version": "5.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "24b5302ab9ee2213adec0690853ed4b5aceb8793"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Reflection.Metadata/System.Reflection.Metadata.dll@5.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Reflection.Metadata:System.Reflection.Metadata.dll:5.0.0"
+        },
+        {
+            "group": "System.Runtime.Extensions",
+            "name": "System.Runtime.Extensions.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "9c6772a60e6464208a491a2cb55d62c8f3c67d00"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Runtime.Extensions/System.Runtime.Extensions.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Runtime.Extensions:System.Runtime.Extensions.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.AspNet.WebPages",
+            "name": "Microsoft.AspNet.WebPages.dll",
+            "version": "3.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.AspNet.WebPages:Microsoft.AspNet.WebPages.dll:3.3.0"
+        },
+        {
+            "group": "Microsoft.CodeAnalysis.Scripting.Common",
+            "name": "Microsoft.CodeAnalysis.Scripting.Common.dll",
+            "version": "4.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.CodeAnalysis.Scripting.Common:Microsoft.CodeAnalysis.Scripting.Common.dll:4.0.0"
+        },
+        {
+            "group": "System.Windows.Extensions",
+            "name": "System.Windows.Extensions.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "2662bcfe0f5a70c03207b291c79dd375cca63f92"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Windows.Extensions/System.Windows.Extensions.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Windows.Extensions:System.Windows.Extensions.dll:6.0.0"
+        },
+        {
+            "group": "Humanizer.Core",
+            "name": "Humanizer.Core.dll",
+            "version": "2.8.26",
+            "type": "library",
+            "bom-ref": "urn:cdx:Humanizer.Core:Humanizer.Core.dll:2.8.26"
+        },
+        {
+            "group": "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+            "name": "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "a98964299df5cb33e20e96ee3ca87ed2780f5f4a"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl/runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl:runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll:4.3.0"
+        },
+        {
+            "group": "runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+            "name": "runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "f1126ce5a209a37a1259ace866425b90e77525a6"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl/runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl:runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl.dll:4.3.0"
+        },
+        {
+            "group": "System.Resources.ResourceManager",
+            "name": "System.Resources.ResourceManager.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "1a6098cd616649b1528427ddfc17d64b3e5595e5"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Resources.ResourceManager/System.Resources.ResourceManager.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Resources.ResourceManager:System.Resources.ResourceManager.dll:4.3.0"
+        },
+        {
+            "group": "runtime.native.System.IO.Compression",
+            "name": "runtime.native.System.IO.Compression.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "353e667cb6c1a18923f1f9b60a69f4a67f671fc9"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.native.System.IO.Compression/runtime.native.System.IO.Compression.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.native.System.IO.Compression:runtime.native.System.IO.Compression.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.Extensions.Logging.Debug",
+            "name": "Microsoft.Extensions.Logging.Debug.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "f9f50b41ab4a6ba20b29b09bea62c32e3e820519"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Extensions.Logging.Debug/Microsoft.Extensions.Logging.Debug.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Extensions.Logging.Debug:Microsoft.Extensions.Logging.Debug.dll:6.0.0"
+        },
+        {
+            "group": "Microsoft.EntityFrameworkCore.Design",
+            "name": "Microsoft.EntityFrameworkCore.Design.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "893447ccd0804365bf7fd667c5d340406559391e"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.EntityFrameworkCore.Design/Microsoft.EntityFrameworkCore.Design.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.EntityFrameworkCore.Design:Microsoft.EntityFrameworkCore.Design.dll:6.0.8"
+        },
+        {
+            "group": "Microsoft.VisualStudio.Web.CodeGeneration.Templating",
+            "name": "Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "9224dcc9f226ab374d80c14d1dc7321f59940b4c"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.Templating/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.VisualStudio.Web.CodeGeneration.Templating:Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll:6.0.8"
+        },
+        {
+            "group": "System.Text.Encoding",
+            "name": "System.Text.Encoding.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "be702c59290b7033d9c247fcc7c1265d82a34d79"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Text.Encoding/System.Text.Encoding.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Text.Encoding:System.Text.Encoding.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.CodeAnalysis.Features",
+            "name": "Microsoft.CodeAnalysis.Features.dll",
+            "version": "4.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "feb2f08986da5940f77a5a150f55dccc99aae1bb"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.CodeAnalysis.Features/Microsoft.CodeAnalysis.Features.dll@4.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.CodeAnalysis.Features:Microsoft.CodeAnalysis.Features.dll:4.0.0"
+        },
+        {
+            "group": "Json.Net",
+            "name": "Json.Net.dll",
+            "version": "1.0.33",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "76ebb8fb6ef537ec6805785e270d1112e4423284"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Unlicense"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Json.Net/Json.Net.dll@1.0.33",
+            "type": "library",
+            "bom-ref": "urn:cdx:Json.Net:Json.Net.dll:1.0.33"
+        },
+        {
+            "group": "System.Security.Cryptography.ProtectedData",
+            "name": "System.Security.Cryptography.ProtectedData.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "b5453dc90dd870e34e8dfe5c8b5366b7473f7c31"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Security.Cryptography.ProtectedData/System.Security.Cryptography.ProtectedData.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Security.Cryptography.ProtectedData:System.Security.Cryptography.ProtectedData.dll:6.0.0"
+        },
+        {
+            "group": "System.IO.Compression.ZipFile",
+            "name": "System.IO.Compression.ZipFile.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "e8eaee6e9ae5fcdbd19b056856ba0d8424243e28"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.IO.Compression.ZipFile/System.IO.Compression.ZipFile.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.IO.Compression.ZipFile:System.IO.Compression.ZipFile.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.EntityFrameworkCore.Analyzers",
+            "name": "Microsoft.EntityFrameworkCore.Analyzers.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "ea79df15d98e677e9fa32e3daf088756d687e45d"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.EntityFrameworkCore.Analyzers/Microsoft.EntityFrameworkCore.Analyzers.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.EntityFrameworkCore.Analyzers:Microsoft.EntityFrameworkCore.Analyzers.dll:6.0.8"
+        },
+        {
+            "group": "Microsoft.Bcl.AsyncInterfaces",
+            "name": "Microsoft.Bcl.AsyncInterfaces.dll",
+            "version": "5.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "1a462715db5f3e32eb88cfb87a7394ed08105093"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Bcl.AsyncInterfaces/Microsoft.Bcl.AsyncInterfaces.dll@5.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Bcl.AsyncInterfaces:Microsoft.Bcl.AsyncInterfaces.dll:5.0.0"
+        },
+        {
+            "group": "Microsoft.Extensions.Identity.Stores",
+            "name": "Microsoft.Extensions.Identity.Stores.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "3adf9911e0be66ad95532e3e80a42fdfdb9a4cbe"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Extensions.Identity.Stores/Microsoft.Extensions.Identity.Stores.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Extensions.Identity.Stores:Microsoft.Extensions.Identity.Stores.dll:6.0.8"
+        },
+        {
+            "group": "Microsoft.Extensions.Caching.Abstractions",
+            "name": "Microsoft.Extensions.Caching.Abstractions.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "a353a72ccfb01f64673cd1cb56fbe7059cb5cf50"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Extensions.Caching.Abstractions/Microsoft.Extensions.Caching.Abstractions.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Extensions.Caching.Abstractions:Microsoft.Extensions.Caching.Abstractions.dll:6.0.0"
+        },
+        {
+            "group": "System.Dynamic.Runtime",
+            "name": "System.Dynamic.Runtime.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "72a623b97ab5cfafc2547d4071db3fe3b3aa1c53"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Dynamic.Runtime/System.Dynamic.Runtime.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Dynamic.Runtime:System.Dynamic.Runtime.dll:4.3.0"
+        },
+        {
+            "group": "System.Security.Cryptography.Algorithms",
+            "name": "System.Security.Cryptography.Algorithms.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "413c96c3ae407532db4c1ce3085a8f99675a8ad4"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Security.Cryptography.Algorithms/System.Security.Cryptography.Algorithms.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Security.Cryptography.Algorithms:System.Security.Cryptography.Algorithms.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.EntityFrameworkCore.Proxies",
+            "name": "Microsoft.EntityFrameworkCore.Proxies.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "432ef0fb43a87edcd3c8b74fa136702440ef3a81"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.EntityFrameworkCore.Proxies/Microsoft.EntityFrameworkCore.Proxies.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.EntityFrameworkCore.Proxies:Microsoft.EntityFrameworkCore.Proxies.dll:6.0.8"
+        },
+        {
+            "group": "Microsoft.Extensions.DependencyInjection.Abstractions",
+            "name": "Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "cb8c35306afd15358104ecfe70e724ad9c753e6f"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Extensions.DependencyInjection.Abstractions/Microsoft.Extensions.DependencyInjection.Abstractions.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Extensions.DependencyInjection.Abstractions:Microsoft.Extensions.DependencyInjection.Abstractions.dll:6.0.0"
+        },
+        {
+            "group": "NuGet.Packaging",
+            "name": "NuGet.Packaging.dll",
+            "version": "6.2.1",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "5c5354997df6d9a65688e63e7817857b11f03b49"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/NuGet.Packaging/NuGet.Packaging.dll@6.2.1",
+            "type": "library",
+            "bom-ref": "urn:cdx:NuGet.Packaging:NuGet.Packaging.dll:6.2.1"
+        },
+        {
+            "group": "Microsoft.CodeAnalysis.CSharp.Scripting",
+            "name": "Microsoft.CodeAnalysis.CSharp.Scripting.dll",
+            "version": "4.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "f9101251550328ca5be76bc0f1752e12bcdaaee3"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.CodeAnalysis.CSharp.Scripting/Microsoft.CodeAnalysis.CSharp.Scripting.dll@4.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.CodeAnalysis.CSharp.Scripting:Microsoft.CodeAnalysis.CSharp.Scripting.dll:4.0.0"
+        },
+        {
+            "group": "System.Net.Http",
+            "name": "System.Net.Http.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "6d344a09471d8b4b849f16b0eebbaff8688a17ce"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Net.Http/System.Net.Http.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Net.Http:System.Net.Http.dll:4.3.0"
+        },
+        {
+            "group": "System.Text.Json",
+            "name": "System.Text.Json.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "7357beaac81e59db8b33482a949eeaeb070ee288"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Text.Json/System.Text.Json.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Text.Json:System.Text.Json.dll:6.0.0"
+        },
+        {
+            "group": "Microsoft.EntityFrameworkCore.Sqlite.Core",
+            "name": "Microsoft.EntityFrameworkCore.Sqlite.Core.dll",
+            "version": "6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.EntityFrameworkCore.Sqlite.Core:Microsoft.EntityFrameworkCore.Sqlite.Core.dll:6.0.8"
+        },
+        {
+            "group": "Newtonsoft.Json",
+            "name": "Newtonsoft.Json.dll",
+            "version": "13.0.1",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "017d0af74be452ad3a06e6cb11604b3c207552b9"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Newtonsoft.Json/Newtonsoft.Json.dll@13.0.1",
+            "type": "library",
+            "bom-ref": "urn:cdx:Newtonsoft.Json:Newtonsoft.Json.dll:13.0.1"
+        },
+        {
+            "group": "Microsoft.Win32.SystemEvents",
+            "name": "Microsoft.Win32.SystemEvents.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "0ddb5d6aeb03a702bc31a652e77943f114b82b4d"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Win32.SystemEvents/Microsoft.Win32.SystemEvents.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Win32.SystemEvents:Microsoft.Win32.SystemEvents.dll:6.0.0"
+        },
+        {
+            "group": "Microsoft.CodeAnalysis.VisualBasic.Workspaces",
+            "name": "Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll",
+            "version": "4.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "7c2c664456a8ca66d68183682a4cdf2b03cb4c0c"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.CodeAnalysis.VisualBasic.Workspaces/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll@4.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.CodeAnalysis.VisualBasic.Workspaces:Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll:4.0.0"
+        },
+        {
+            "group": "System.Composition.AttributedModel",
+            "name": "System.Composition.AttributedModel.dll",
+            "version": "1.0.31",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "1ce7555a43e74f5ac95fc734505068c4e0c4a78e"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Composition.AttributedModel/System.Composition.AttributedModel.dll@1.0.31",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Composition.AttributedModel:System.Composition.AttributedModel.dll:1.0.31"
+        },
+        {
+            "group": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation",
+            "name": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "b1028fe7125056428bb98e0b8970a351752f53a5"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation:Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll:6.0.8"
+        },
+        {
+            "group": "Microsoft.Extensions.FileProviders.Abstractions",
+            "name": "Microsoft.Extensions.FileProviders.Abstractions.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "295c098f6ab5cd3a64272215d55b4edd9e967c19"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Extensions.FileProviders.Abstractions/Microsoft.Extensions.FileProviders.Abstractions.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Extensions.FileProviders.Abstractions:Microsoft.Extensions.FileProviders.Abstractions.dll:6.0.0"
+        },
+        {
+            "group": "Microsoft.EntityFrameworkCore.Relational",
+            "name": "Microsoft.EntityFrameworkCore.Relational.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "0d10227114a2202c66213e10c4be43b636f5a3e6"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.EntityFrameworkCore.Relational/Microsoft.EntityFrameworkCore.Relational.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.EntityFrameworkCore.Relational:Microsoft.EntityFrameworkCore.Relational.dll:6.0.8"
+        },
+        {
+            "group": "Microsoft.EntityFrameworkCore.Sqlite",
+            "name": "Microsoft.EntityFrameworkCore.Sqlite.dll",
+            "version": "6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.EntityFrameworkCore.Sqlite:Microsoft.EntityFrameworkCore.Sqlite.dll:6.0.8"
+        },
+        {
+            "group": "System.Reflection",
+            "name": "System.Reflection.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "b830e365efc12167714e591dc7c1dd0a623fca48"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Reflection/System.Reflection.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Reflection:System.Reflection.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.CSharp",
+            "name": "Microsoft.CSharp.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "bc806d6884453bfae47001e44522edd7bab7814c"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/Microsoft.CSharp/Microsoft.CSharp.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.CSharp:Microsoft.CSharp.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.Extensions.Primitives",
+            "name": "Microsoft.Extensions.Primitives.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "01bade8d946d41fb155b0531d17f184acec78057"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Extensions.Primitives/Microsoft.Extensions.Primitives.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Extensions.Primitives:Microsoft.Extensions.Primitives.dll:6.0.0"
+        },
+        {
+            "group": "MessagePackAnalyzer",
+            "name": "MessagePackAnalyzer.dll",
+            "version": "2.1.152",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "48ca95ea7c8074752ec006903c02010f2c3f73a8"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/MessagePackAnalyzer/MessagePackAnalyzer.dll@2.1.152",
+            "type": "library",
+            "bom-ref": "urn:cdx:MessagePackAnalyzer:MessagePackAnalyzer.dll:2.1.152"
+        },
+        {
+            "group": "Microsoft.Extensions.Identity.Core",
+            "name": "Microsoft.Extensions.Identity.Core.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "53554cb6b3c806e4a3071f5ec21520383db044c7"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Extensions.Identity.Core/Microsoft.Extensions.Identity.Core.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Extensions.Identity.Core:Microsoft.Extensions.Identity.Core.dll:6.0.8"
+        },
+        {
+            "group": "SQLitePCLRaw.provider.e_sqlite3",
+            "name": "SQLitePCLRaw.provider.e_sqlite3.dll",
+            "version": "2.0.6",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "a071a6c2b291969ae0d182172593bba2b9b0ac84"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/SQLitePCLRaw.provider.e_sqlite3/SQLitePCLRaw.provider.e_sqlite3.dll@2.0.6",
+            "type": "library",
+            "bom-ref": "urn:cdx:SQLitePCLRaw.provider.e_sqlite3:SQLitePCLRaw.provider.e_sqlite3.dll:2.0.6"
+        },
+        {
+            "group": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
+            "name": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni.dll",
+            "version": "4.4.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "13827df2f8f604e3b9d0b1d0902e8e92986aaeba"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.win-arm64.runtime.native.System.Data.SqlClient.sni/runtime.win-arm64.runtime.native.System.Data.SqlClient.sni.dll@4.4.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.win-arm64.runtime.native.System.Data.SqlClient.sni:runtime.win-arm64.runtime.native.System.Data.SqlClient.sni.dll:4.4.0"
+        },
+        {
+            "group": "Microsoft.DiaSymReader",
+            "name": "Microsoft.DiaSymReader.dll",
+            "version": "1.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "bc730eb3ba8945a3fdf22e5ef3c16a8331e8eda3"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/Microsoft.DiaSymReader/Microsoft.DiaSymReader.dll@1.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.DiaSymReader:Microsoft.DiaSymReader.dll:1.3.0"
+        },
+        {
+            "group": "System.Reflection.Emit",
+            "name": "System.Reflection.Emit.dll",
+            "version": "4.6.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "5d322d9d0f1694418d5cb436f5e1fbf62d707bb5"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Reflection.Emit/System.Reflection.Emit.dll@4.6.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Reflection.Emit:System.Reflection.Emit.dll:4.6.0"
+        },
+        {
+            "group": "System.IO.FileSystem.Primitives",
+            "name": "System.IO.FileSystem.Primitives.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "8374975ca07a300021ef0acaa4f908d5bfb102fb"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.IO.FileSystem.Primitives/System.IO.FileSystem.Primitives.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.IO.FileSystem.Primitives:System.IO.FileSystem.Primitives.dll:4.3.0"
+        },
+        {
+            "group": "MessagePack.Annotations",
+            "name": "MessagePack.Annotations.dll",
+            "version": "2.1.152",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "3ed9b2e6c1e395517317605144cd675b5287ff35"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/MessagePack.Annotations/MessagePack.Annotations.dll@2.1.152",
+            "type": "library",
+            "bom-ref": "urn:cdx:MessagePack.Annotations:MessagePack.Annotations.dll:2.1.152"
+        },
+        {
+            "group": "System.Security.Cryptography.Primitives",
+            "name": "System.Security.Cryptography.Primitives.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "056f2ddbcc1f0bffe7d53c1e70258f62fb459f7d"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Security.Cryptography.Primitives/System.Security.Cryptography.Primitives.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Security.Cryptography.Primitives:System.Security.Cryptography.Primitives.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.Extensions.DependencyModel",
+            "name": "Microsoft.Extensions.DependencyModel.dll",
+            "version": "6.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "9ef5542d260d0123c62e50006cd4b433feaf4626"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.Extensions.DependencyModel/Microsoft.Extensions.DependencyModel.dll@6.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Extensions.DependencyModel:Microsoft.Extensions.DependencyModel.dll:6.0.0"
+        },
+        {
+            "group": "System.Collections.NonGeneric",
+            "name": "System.Collections.NonGeneric.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "8c9c267961da40c9adcbda78050d4d92f16a7627"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Collections.NonGeneric/System.Collections.NonGeneric.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Collections.NonGeneric:System.Collections.NonGeneric.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.AspNetCore.Razor.Language",
+            "name": "Microsoft.AspNetCore.Razor.Language.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "533c54e97b16c2f2208b9114e7760d63c6d59fef"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.AspNetCore.Razor.Language/Microsoft.AspNetCore.Razor.Language.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.AspNetCore.Razor.Language:Microsoft.AspNetCore.Razor.Language.dll:6.0.8"
+        },
+        {
+            "group": "System.Diagnostics.TraceSource",
+            "name": "System.Diagnostics.TraceSource.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "4418d44246d756864965916df4a8e0d63e967779"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Diagnostics.TraceSource/System.Diagnostics.TraceSource.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Diagnostics.TraceSource:System.Diagnostics.TraceSource.dll:4.3.0"
+        },
+        {
+            "group": "Castle.Core",
+            "name": "Castle.Core.dll",
+            "version": "4.4.1",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "4cf408e44476837e986439d94f20a5e6a31ef335"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Castle.Core/Castle.Core.dll@4.4.1",
+            "type": "library",
+            "bom-ref": "urn:cdx:Castle.Core:Castle.Core.dll:4.4.1"
+        },
+        {
+            "group": "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore",
+            "name": "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "fd5854dd41987fc3478b1eb02b6aede551a8b3bd"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore:Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll:6.0.8"
+        },
+        {
+            "group": "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple",
+            "name": "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "7b17c3c7b3b6f53c78284a565defac772e45fc1b"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple/runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple:runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple.dll:4.3.0"
+        },
+        {
+            "group": "System.Formats.Asn1",
+            "name": "System.Formats.Asn1.dll",
+            "version": "5.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "7c6364b25c8d54e24351745adcbf0fe829c2b0e4"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Formats.Asn1/System.Formats.Asn1.dll@5.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Formats.Asn1:System.Formats.Asn1.dll:5.0.0"
+        },
+        {
+            "group": "System.Threading.Tasks.Extensions",
+            "name": "System.Threading.Tasks.Extensions.dll",
+            "version": "4.5.4",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "4dde8d2e2ea991eed04a9668cd8bae58708a58ef"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Threading.Tasks.Extensions/System.Threading.Tasks.Extensions.dll@4.5.4",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Threading.Tasks.Extensions:System.Threading.Tasks.Extensions.dll:4.5.4"
+        },
+        {
+            "group": "runtime.native.System",
+            "name": "runtime.native.System.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "803aec40ed4e517d0e45ff106393e1d623e1a319"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.native.System/runtime.native.System.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.native.System:runtime.native.System.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.Win32.Primitives",
+            "name": "Microsoft.Win32.Primitives.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "afa308c0166d8cbdd1d5e6fdaa8c9b87eb9184e7"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/Microsoft.Win32.Primitives/Microsoft.Win32.Primitives.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.Win32.Primitives:Microsoft.Win32.Primitives.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.CodeAnalysis.Workspaces.Common",
+            "name": "Microsoft.CodeAnalysis.Workspaces.Common.dll",
+            "version": "4.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.CodeAnalysis.Workspaces.Common:Microsoft.CodeAnalysis.Workspaces.Common.dll:4.0.0"
+        },
+        {
+            "group": "System.Reflection.Emit.Lightweight",
+            "name": "System.Reflection.Emit.Lightweight.dll",
+            "version": "4.6.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "9100144eedff62551a4063e839bcd0abadcb4382"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Reflection.Emit.Lightweight/System.Reflection.Emit.Lightweight.dll@4.6.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Reflection.Emit.Lightweight:System.Reflection.Emit.Lightweight.dll:4.6.0"
+        },
+        {
+            "group": "Microsoft.NET.StringTools",
+            "name": "Microsoft.NET.StringTools.dll",
+            "version": "1.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "d315a047371f37c5f5a1a9b02dc56b7a8c80d5f9"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.NET.StringTools/Microsoft.NET.StringTools.dll@1.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.NET.StringTools:Microsoft.NET.StringTools.dll:1.0.0"
+        },
+        {
+            "group": "NuGet.Protocol",
+            "name": "NuGet.Protocol.dll",
+            "version": "5.11.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "1e26fc0d2ac69da64e41c3f6ad92f513769c3ca4"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "Apache-2.0"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/NuGet.Protocol/NuGet.Protocol.dll@5.11.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:NuGet.Protocol:NuGet.Protocol.dll:5.11.0"
+        },
+        {
+            "group": "System.Composition.Runtime",
+            "name": "System.Composition.Runtime.dll",
+            "version": "1.0.31",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "064a5fd748bc75f485196e1001c704aef20b3f5b"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Composition.Runtime/System.Composition.Runtime.dll@1.0.31",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Composition.Runtime:System.Composition.Runtime.dll:1.0.31"
+        },
+        {
+            "group": "System.IO.Compression",
+            "name": "System.IO.Compression.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "629ce95c12b21678d877359ec4552d431c1cfbab"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.IO.Compression/System.IO.Compression.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.IO.Compression:System.IO.Compression.dll:4.3.0"
+        },
+        {
+            "group": "System.Security.Cryptography.Encoding",
+            "name": "System.Security.Cryptography.Encoding.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "a0f2c03cb813317460133de80231d7b1fb62dcc5"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Security.Cryptography.Encoding/System.Security.Cryptography.Encoding.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Security.Cryptography.Encoding:System.Security.Cryptography.Encoding.dll:4.3.0"
+        },
+        {
+            "group": "System.Buffers",
+            "name": "System.Buffers.dll",
+            "version": "4.5.1",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "2f410a0396bc148ed533ad49b6415fb58dd4d641"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/System.Buffers/System.Buffers.dll@4.5.1",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Buffers:System.Buffers.dll:4.5.1"
+        },
+        {
+            "group": "System.Composition.TypedParts",
+            "name": "System.Composition.TypedParts.dll",
+            "version": "1.0.31",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "0607290006d8c4d92bd1233d7e061ee714d0d53b"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/System.Composition.TypedParts/System.Composition.TypedParts.dll@1.0.31",
+            "type": "library",
+            "bom-ref": "urn:cdx:System.Composition.TypedParts:System.Composition.TypedParts.dll:1.0.31"
+        },
+        {
+            "group": "runtime.native.System.Security.Cryptography.OpenSsl",
+            "name": "runtime.native.System.Security.Cryptography.OpenSsl.dll",
+            "version": "4.3.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "c20b03550ad7e09548fea8361524de3da1fcb6e7"
+                }
+            ],
+            "licenses": [],
+            "purl": "pkg:nuget/runtime.native.System.Security.Cryptography.OpenSsl/runtime.native.System.Security.Cryptography.OpenSsl.dll@4.3.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:runtime.native.System.Security.Cryptography.OpenSsl:runtime.native.System.Security.Cryptography.OpenSsl.dll:4.3.0"
+        },
+        {
+            "group": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+            "name": "Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll",
+            "version": "6.0.8",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "71b75b1411e6797a7c2bd6ced274ee45bb23257f"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.AspNetCore.Identity.EntityFrameworkCore/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll@6.0.8",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.AspNetCore.Identity.EntityFrameworkCore:Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll:6.0.8"
+        },
+        {
+            "group": "Microsoft.CodeAnalysis.CSharp.Workspaces",
+            "name": "Microsoft.CodeAnalysis.CSharp.Workspaces.dll",
+            "version": "4.0.0",
+            "hashes": [
+                {
+                    "alg": "SHA-1",
+                    "content": "f1271f4f4820aea3b6d65a93854215f50e9b81a9"
+                }
+            ],
+            "licenses": [
+                {
+                    "license": {
+                        "id": "MIT"
+                    }
+                }
+            ],
+            "purl": "pkg:nuget/Microsoft.CodeAnalysis.CSharp.Workspaces/Microsoft.CodeAnalysis.CSharp.Workspaces.dll@4.0.0",
+            "type": "library",
+            "bom-ref": "urn:cdx:Microsoft.CodeAnalysis.CSharp.Workspaces:Microsoft.CodeAnalysis.CSharp.Workspaces.dll:4.0.0"
+        }
+    ],
+    "vulnerabilities": [
+        {
+            "id": "CVE-2018-8292",
+            "ratings": [
+                {
+                    "score": 5,
+                    "severity": "medium",
+                    "method": "CVSSv2"
+                },
+                {
+                    "score": 7.5,
+                    "severity": "high",
+                    "method": "CVSSv31",
+                    "vector": "CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
+                }
+            ],
+            "cwes": [
+                200
+            ],
+            "description": "An information disclosure vulnerability exists in .NET Core when authentication information is inadvertently exposed in a redirect, aka \".NET Core Information Disclosure Vulnerability.\" This affects .NET Core 2.1, .NET Core 1.0, .NET Core 1.1, PowerShell Core 6.0.",
+            "affects": [
+                {
+                    "ref": "urn:cdx:System.Net.Http:System.Net.Http.dll:4.3.0"
+                }
+            ]
+        },
+        {
+            "id": "CVE-2024-43483",
+            "ratings": [
+                {
+                    "score": 0,
+                    "severity": "low",
+                    "method": "CVSSv2"
+                },
+                {
+                    "score": 7.5,
+                    "severity": "high",
+                    "method": "CVSSv31",
+                    "vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+                }
+            ],
+            "description": ".NET, .NET Framework, and Visual Studio Denial of Service Vulnerability",
+            "affects": [
+                {
+                    "ref": "urn:cdx:Microsoft.Extensions.Caching.Memory:Microsoft.Extensions.Caching.Memory.dll:6.0.1"
+                }
+            ]
+        },
+        {
+            "id": "CVE-2023-29337",
+            "ratings": [
+                {
+                    "score": 0,
+                    "severity": "low",
+                    "method": "CVSSv2"
+                },
+                {
+                    "score": 7.1,
+                    "severity": "high",
+                    "method": "CVSSv31",
+                    "vector": "CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:U/C:H/I:H/A:H"
+                }
+            ],
+            "description": "NuGet Client Remote Code Execution Vulnerability",
+            "affects": [
+                {
+                    "ref": "urn:cdx:NuGet.Common:NuGet.Common.dll:6.2.1"
+                }
+            ]
+        },
+        {
+            "id": "CVE-2019-0820",
+            "ratings": [
+                {
+                    "score": 5,
+                    "severity": "medium",
+                    "method": "CVSSv2"
+                },
+                {
+                    "score": 7.5,
+                    "severity": "high",
+                    "method": "CVSSv31",
+                    "vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+                }
+            ],
+            "cwes": [
+                400
+            ],
+            "description": "A denial of service vulnerability exists when .NET Framework and .NET Core improperly process RegEx strings, aka '.NET Framework and .NET Core Denial of Service Vulnerability'. This CVE ID is unique from CVE-2019-0980, CVE-2019-0981.",
+            "affects": [
+                {
+                    "ref": "urn:cdx:System.Text.RegularExpressions:System.Text.RegularExpressions.dll:4.3.0"
+                }
+            ]
+        },
+        {
+            "id": "CVE-2024-48924",
+            "ratings": [
+                {
+                    "score": 0,
+                    "severity": "low",
+                    "method": "CVSSv2"
+                }
+            ],
+            "description": "### ImpactWhen this library is used to deserialize messagepack data from an untrusted source, there is a risk of a denial of service attack by an attacker that sends data contrived to produce hash collisions, leading to large CPU consumption disproportionate to the size of the data being deserialized.This is similar to [a prior advisory](https://github.com/MessagePack-CSharp/MessagePack-CSharp/security/advisories/GHSA-7q36-4xx7-xcxf), which provided an inadequate fix for the hash collision part of the vulnerability.### PatchesThe following steps are required to mitigate this risk.1. Upgrade to a version of the library where a fix is available.1. Review the steps in [this previous advisory](https://github.com/MessagePack-CSharp/MessagePack-CSharp/security/advisories/GHSA-7q36-4xx7-xcxf) to ensure you have your application configured for untrusted data.### WorkaroundsIf upgrading MessagePack to a patched version is not an option for you, you may apply a manual workaround as follows:1. Declare a class that derives from `MessagePackSecurity`.2. Override the `GetHashCollisionResistantEqualityComparer<T>` method to provide a collision-resistant hash function of your own and avoid calling `base.GetHashCollisionResistantEqualityComparer<T>()`.3. Configure a `MessagePackSerializerOptions` with an instance of your derived type by calling `WithSecurity` on an existing options object.4. Use your custom options object for all deserialization operations. This may be by setting the `MessagePackSerializer.DefaultOptions` static property, if you call methods that rely on this default property, and/or by passing in the options object explicitly to any `Deserialize` method.### References- Learn more about best security practices when reading untrusted data with [MessagePack 1.x](https://github.com/MessagePack-CSharp/MessagePack-CSharp/tree/v1.x#security) or [MessagePack 2.x](https://github.com/MessagePack-CSharp/MessagePack-CSharp#security).- The .NET team's [discussion on hash collision vulnerabilities of their `HashCode` struct](https://github.com/GrabYourPitchforks/runtime/blob/threat_models/docs/design/security/System.HashCode.md).### For more informationIf you have any questions or comments about this advisory:* [Start a public discussion](https://github.com/MessagePack-CSharp/MessagePack-CSharp/discussions)* [Email us privately](mailto:andrewarnott@live.com)",
+            "affects": [
+                {
+                    "ref": "urn:cdx:MessagePack:MessagePack.dll:2.1.152"
+                }
+            ]
+        },
+        {
+            "id": "CVE-2024-38095",
+            "ratings": [
+                {
+                    "score": 0,
+                    "severity": "low",
+                    "method": "CVSSv2"
+                },
+                {
+                    "score": 7.5,
+                    "severity": "high",
+                    "method": "CVSSv31",
+                    "vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+                }
+            ],
+            "description": ".NET and Visual Studio Denial of Service Vulnerability",
+            "affects": [
+                {
+                    "ref": "urn:cdx:System.Formats.Asn1:System.Formats.Asn1.dll:5.0.0"
+                }
+            ]
+        },
+        {
+            "id": "CVE-2024-0056",
+            "ratings": [
+                {
+                    "score": 0,
+                    "severity": "low",
+                    "method": "CVSSv2"
+                },
+                {
+                    "score": 8.7,
+                    "severity": "high",
+                    "method": "CVSSv31",
+                    "vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:N"
+                }
+            ],
+            "description": "Microsoft.Data.SqlClient and System.Data.SqlClient SQL Data Provider Security Feature Bypass Vulnerability",
+            "affects": [
+                {
+                    "ref": "urn:cdx:System.Data.SqlClient:System.Data.SqlClient.dll:4.8.3"
+                }
+            ]
+        },
+        {
+            "id": "CVE-2022-41032",
+            "ratings": [
+                {
+                    "score": 0,
+                    "severity": "low",
+                    "method": "CVSSv2"
+                },
+                {
+                    "score": 7.8,
+                    "severity": "high",
+                    "method": "CVSSv31",
+                    "vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+                }
+            ],
+            "description": "NuGet Client Elevation of Privilege Vulnerability",
+            "affects": [
+                {
+                    "ref": "urn:cdx:NuGet.Protocol:NuGet.Protocol.dll:5.11.0"
+                }
+            ]
+        },
+        {
+            "id": "CVE-2022-41064",
+            "ratings": [
+                {
+                    "score": 0,
+                    "severity": "low",
+                    "method": "CVSSv2"
+                },
+                {
+                    "score": 5.8,
+                    "severity": "medium",
+                    "method": "CVSSv31",
+                    "vector": "CVSS:3.1/AV:A/AC:H/PR:L/UI:N/S:C/C:H/I:N/A:N"
+                }
+            ],
+            "description": ".NET Framework Information Disclosure Vulnerability",
+            "affects": [
+                {
+                    "ref": "urn:cdx:System.Data.SqlClient:System.Data.SqlClient.dll:4.8.3"
+                }
+            ]
+        },
+        {
+            "id": "CVE-2024-43485",
+            "ratings": [
+                {
+                    "score": 0,
+                    "severity": "low",
+                    "method": "CVSSv2"
+                },
+                {
+                    "score": 7.5,
+                    "severity": "high",
+                    "method": "CVSSv31",
+                    "vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+                }
+            ],
+            "description": ".NET and Visual Studio Denial of Service Vulnerability",
+            "affects": [
+                {
+                    "ref": "urn:cdx:System.Text.Json:System.Text.Json.dll:6.0.0"
+                }
+            ]
+        }
+    ]
+}

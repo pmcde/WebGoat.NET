@@ -1,0 +1,16 @@
+{
+    "excludes": [
+        "**/AccountController.cs",
+        "**/AccountController1.cs",
+        "**/AccountController2.cs",
+        "**/*.sh",
+        "**/*.java",
+        "**/*.js"
+    ],
+    "metadata": {
+        "atest": "MetaD1",
+        "btest": "MetaD2",
+        "ctest": "MetaD3",
+        "dtest": "MetaD4"
+    }
+}

@@ -1,0 +1,12 @@
+[OPT.CSHARP.MVCPreventUnderpostingModelDefinition]
+active=false
+
+[OPT.CSHARP.Csharp.AvoidExceptionThrowingInBinaryOperators]
+active=false
+
+[OPT.CSHARP.Csharp.AvoidExceptionThrowingInDisposeMethod]
+active=false
+
+[OPT.CSHARP.Csharp.MarkWindowsFormsEntryPointsWithStaThread]
+active=false
+
